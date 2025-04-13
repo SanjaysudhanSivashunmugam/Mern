@@ -19,7 +19,7 @@
 </html>
 ```
 
-### Heading in HTML:
+### Tags in HTML:
 #### Heading Tag
 ```html
 <h1>This is Heading 1 Tag</h1>
