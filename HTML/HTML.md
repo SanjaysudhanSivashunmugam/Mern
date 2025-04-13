@@ -59,3 +59,11 @@
     <li> Element three </li>
 </ul>
 ```
+#### Anchor Tag
+```html
+<a href="https://www.google.com/"> This is the Link </a>
+```
+#### Image Tag
+```html
+<img src="https://53.fs1.hubspotusercontent-na1.net/hub/53/hubfs/image9-2.jpg?width=432&name=image9-2.jpg" />
+```
