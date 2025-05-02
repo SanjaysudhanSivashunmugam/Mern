@@ -96,3 +96,7 @@ h1{
     color:red
 }
 ```
+# CSS Box Element
+`
+The CSS box model is essentially a box that wraps around every HTML element. It consists of: content, padding, borders and margins.
+`
